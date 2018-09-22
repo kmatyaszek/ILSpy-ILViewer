@@ -9,6 +9,8 @@ You can preview IL code for following members:
 * property
 * event
 
+![Context menu with ILViewer](/docs/ILSpy_ILViewer.png)
+
 ## Getting Started
 
 ### Prerequisites
