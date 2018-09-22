@@ -17,6 +17,8 @@ You should have installed ILSpy on your computer (https://github.com/icsharpcode
 ### Installing
 To install this plugin you need copy **ILSpy-ILViewer.Plugin.dll** to ILSpy installation directory.
 
+If you don't want to build this project by yourself you can download this file from: https://github.com/kmatyaszek/ILSpy-ILViewer/releases/tag/v1.0
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
