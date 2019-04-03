@@ -11,7 +11,7 @@ You can preview IL code for following members:
 
 ![Context menu with ILViewer](/docs/ILSpy_ILViewer.png)
 
-https://kmatyaszek.blogspot.com/2018/09/ilspy-il-code-viewer-plugin.html
+https://kmatyaszek.github.io/projects/2018/10/22/ilspy-ilcode-viewer-plugin.html
 
 ## Getting Started
 
